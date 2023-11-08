@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Producto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Producto"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/Codigo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Codigo"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/Cantidad"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cantidad"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/MontoUnitario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Monto Unitario"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/MontoTotal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Monto Total"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

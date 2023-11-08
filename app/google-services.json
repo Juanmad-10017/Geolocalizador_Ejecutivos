@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878182552453",
+    "project_id": "geolocalizador-ejecutivos-1-7",
+    "storage_bucket": "geolocalizador-ejecutivos-1-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878182552453:android:d60191b705acdf44e9eaec",
+        "android_client_info": {
+          "package_name": "com.example.geolocalizadorejecutivos17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQBGo-sT56rMMtYgzs_5YNrupyGVx6Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

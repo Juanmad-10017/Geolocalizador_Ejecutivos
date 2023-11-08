@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geolocalizador Ejecutivos 1.7</string>
+    <string name="geolozacizacion">Localizador</string>
+    <string name="Clientes">Registro de clientes</string>
+    <string name="Ventas">Registro de ventas</string>
+    <string name="ayuda">Cantato Soporte</string>
+    <string name="AgregarCliente">Agregar Cliente</string>
+    <string name="NombreEmpresa">Nombre de Empresa</string>
+    <string name="Correo">Correo de empresa</string>
+    <string name="Telefono">Telefono Contacto</string>
+    <string name="Direccion">Dirección Empresa</string>
+    <string name="NombreContacto">Nombre contacto</string>
+    <string name="Regresar">Regresar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
